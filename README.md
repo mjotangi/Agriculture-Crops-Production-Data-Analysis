@@ -23,9 +23,9 @@ The dataset contains the following columns:
 
 ## **Data Preparation**
 
-### **Creating a table
-### **Loading data into the table
-### **View table
+### **Creating a table**
+### **Loading data into the table**
+### **View table**
 
 ## **Data Cleaning**
 
