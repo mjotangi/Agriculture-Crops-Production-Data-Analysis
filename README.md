@@ -21,6 +21,10 @@ The dataset contains the following columns:
 - Flag: Indicators for data quality and status.
 - Flag Description: Descriptions of the flags.
 
+## **Data Preparation**
+
+## **Data Cleaning**
+
 1. Introduction..................................................1
 2. Data Description..............................................2
 3. Database Design...............................................3
