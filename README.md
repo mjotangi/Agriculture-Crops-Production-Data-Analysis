@@ -27,10 +27,11 @@ The dataset contains the following columns:
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/59e722ad-6a3f-44a9-b584-4e22ed5e5643">
 - Creates a table Production_Crops with columns to store various attributes.
 
+### **Loading data into the table and view table**
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/b3ee0d74-6fce-4d46-8487-c6f04e65b249">
 
 
-### **Loading data into the table**
-### **View table**
+
 
 ## **Data Cleaning**
 
