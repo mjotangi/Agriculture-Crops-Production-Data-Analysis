@@ -25,7 +25,7 @@ The dataset contains the following columns:
 - Flag: Indicators for data quality and status.
 - Flag Description: Descriptions of the flags.
 
-## **Data Preparation**
+## **Data Loading**
 
 ### **Creating a table**
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/59e722ad-6a3f-44a9-b584-4e22ed5e5643">
@@ -37,7 +37,7 @@ The dataset contains the following columns:
 
 - Loads data from a CSV file and retrieves all the records
 
-## **Data Cleaning**
+## **Data Preprocessing**
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/3f002ef4-5f9a-40c8-b57e-474e9c7f025b">
 
 - Identifies duplicate records by grouping all columns and selecting groups having more than one record.
@@ -46,7 +46,12 @@ The dataset contains the following columns:
 
 - Selects records where the Area field is null.
 
-## **
+## **Data Exploration**
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/696d52eb-57f2-4834-b9b9-224412322229">
+
+- Calculates the total number of rows and columns in the dataset.
+  
+- Describes the structure of the Production_Crops table, providing information about its columns and data types.
 
 
 
