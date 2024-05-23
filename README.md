@@ -75,6 +75,12 @@ The dataset contains the following columns:
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/c9e670d8-d15e-4192-a75c-de064d668299">
 
 
+5. How has maize production varied over time in the United States, Russia, India, China, and Brazil? or Which country has consistently produced the most maize over the specified period? or What were the peak production years for maize in each of the listed countries? or How does maize production in Brazil compare to that in other countries over the specified period? or Are there any significant trends or patterns in maize production across the listed countries over the years?
+
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/2d16ec25-5c23-47ff-90f3-bd29092f9975">
+
+
+
 
 
 
