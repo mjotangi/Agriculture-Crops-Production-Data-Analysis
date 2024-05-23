@@ -79,6 +79,16 @@ The dataset contains the following columns:
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/2d16ec25-5c23-47ff-90f3-bd29092f9975">
 
+6. How much maize (corn) did the United States produce each year? or What percentage of the total global maize production does the United States contribute each year? or How has the United States' share of global maize production fluctuated over the years? or Are there any notable trends or patterns in the United States' maize production relative to the global production?
+
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/0012ef72-b1a1-4a1c-a8e4-fca48085afd3">
+
+7. What is the year with the highest production for each item?
+
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/cc0c9acd-d180-425b-b9c7-6d44ab57e588">
+
+
+
 
 
 
