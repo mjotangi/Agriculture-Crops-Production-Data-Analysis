@@ -29,27 +29,22 @@ The dataset contains the following columns:
 
 ### **Creating a table**
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/59e722ad-6a3f-44a9-b584-4e22ed5e5643">
+
 - Creates a table Production_Crops with columns to store various attributes.
 
 ### **Loading data into the table and view table**
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/b3ee0d74-6fce-4d46-8487-c6f04e65b249">
+
 - Loads data from a CSV file and retrieves all the records
 
 ## **Data Cleaning**
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/3f002ef4-5f9a-40c8-b57e-474e9c7f025b">
+
 - Identifies duplicate records by grouping all columns and selecting groups having more than one record.
+
 - Alters the table by dropping the Domain column.
+
 - Selects records where the Area field is null.
 
 
-
-1. Introduction..................................................1
-2. Data Description..............................................2
-3. Database Design...............................................3
-4. Data Loading..................................................4
-5. Data Management and Cleaning..................................5
-6. Analytical Queries............................................6
-7. Results and Findings..........................................7
-8. Conclusion....................................................8
-9. Appendices....................................................9
 
