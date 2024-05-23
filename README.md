@@ -1,5 +1,9 @@
 # Agriculture-Crop-Production-Data-Analysis
 
+## **Objective**
+
+To analyze agricultural production data in order to uncover insights into crop production patterns, identify trends over time, and compare agricultural outputs among major crop-producing countries.
+
 Please visit the live tableau dashboard by clicking on the link to fully experience the filters.https://public.tableau.com/views/AgricultureProduction_17158934723780/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
 
 ![image](https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/491d100e-0da2-4936-9ee8-2576c73b4b79)
