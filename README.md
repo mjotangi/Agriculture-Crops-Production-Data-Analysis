@@ -55,17 +55,17 @@ The dataset contains the following columns:
 
 ## **Data Analysis**
 
-1. Which crops are exclusively produced in a single country? or What is the overall production distribution of crops among the United States, Russia, India, China, and Brazil?
+### **1. Which crops are exclusively produced in a single country? or What is the overall production distribution of crops among the United States, Russia, India, China, and Brazil?**
    
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/43b39a7f-c168-4553-acdc-d5a2e1fc04d4">
 
 
-3. In the year 2022, what are the total values of production, area harvested, and yield, and which element holds the highest total value?
+### **2. In the year 2022, what are the total values of production, area harvested, and yield, and which element holds the highest total value?**
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/14154910-4757-49ae-b0f5-7d1d95484536">
 
 
-4. What are the top 10 crops produced, harvested, and yielded in the year 2022?
+### **3. What are the top 10 crops produced, harvested, and yielded in the year 2022?**
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/8962307f-34cc-441a-8cc4-e858bf475978">
 
