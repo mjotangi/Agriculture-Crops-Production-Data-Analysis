@@ -36,6 +36,11 @@ The dataset contains the following columns:
 - Loads data from a CSV file and retrieves all the records
 
 ## **Data Cleaning**
+<img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/3f002ef4-5f9a-40c8-b57e-474e9c7f025b">
+- Identifies duplicate records by grouping all columns and selecting groups having more than one record.
+- Alters the table by dropping the Domain column.
+- Selects records where the Area field is null.
+
 
 
 1. Introduction..................................................1
