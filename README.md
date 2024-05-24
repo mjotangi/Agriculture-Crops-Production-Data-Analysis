@@ -55,11 +55,6 @@ The dataset contains the following columns:
 
 ## **Data Analysis**
 
-1. Which crops are exclusively produced in a single country? or What is the overall production distribution of crops among the United States, Russia, India, China, and Brazil?
-   
-<img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/43b39a7f-c168-4553-acdc-d5a2e1fc04d4">
-
-
 2. In the year 2022, what are the total values of production, area harvested, and yield, and which element holds the highest total value?
 
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/14154910-4757-49ae-b0f5-7d1d95484536">
@@ -75,7 +70,7 @@ The dataset contains the following columns:
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/c9e670d8-d15e-4192-a75c-de064d668299">
 
 
-5. How has maize production varied over time in the United States, Russia, India, China, and Brazil? or Which country has consistently produced the most maize over the specified period? or What were the peak production years for maize in each of the listed countries? or How does maize production in Brazil compare to that in other countries over the specified period? or Are there any significant trends or patterns in maize production across the listed countries over the years?
+5. How has maize production varied over time in the United States, Russia, India, China, and Brazil? or Which country has consistently produced the most maize over the specified period? or What were the peak production years for maize in each of the listed countries?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/2d16ec25-5c23-47ff-90f3-bd29092f9975">
 
@@ -86,6 +81,18 @@ The dataset contains the following columns:
 7. What is the year with the highest production for each item?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/cc0c9acd-d180-425b-b9c7-6d44ab57e588">
+
+## **Findings**
+
+- Sugar cane is the most produced crop, with production increasing from 200 million tonnes in 1961 to 1195 million in 2022. Brazil has been the leading producer since 1982, surpassing India, accounting for 60% of the total production 2022.
+
+- In 2022, wheat was the second most harvested crop, with more than 75 million hectares. Asian countries are the largest producers, with almost 60 million hectares of harvest area. Russia’s most produced and harvested crop is wheat. 
+
+- In 2022, corn was the second most produced crop. However, its production was 300 million tonnes less than the previous year. The United States harvested almost 50% of its area and became the largest producer, accounting for approx 70% of the total production.
+
+- In 2022, soya beans were the most harvested crops, with over 90 million hectares. Meanwhile, the soya bean is the second most harvested and produced crop in the United States, lacking Brazil by only 4% of total production.
+
+- In the United States, corn has been the most produced crop since 1961. The highest amount of corn was produced in 2016, with over 400 million tonnes, accounting for more than 50% of the total production.
 
 
 
