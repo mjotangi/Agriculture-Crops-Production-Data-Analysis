@@ -82,7 +82,7 @@ The dataset contains the following columns:
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/cc0c9acd-d180-425b-b9c7-6d44ab57e588">
 
-## **Findings**
+## **Key Findings**
 
 - Sugar cane is the most produced crop, with production increasing from 200 million tonnes in 1961 to 1195 million in 2022. Brazil has been the leading producer since 1982, surpassing India, accounting for 60% of the total production 2022.
 
