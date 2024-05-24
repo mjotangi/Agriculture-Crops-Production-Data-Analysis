@@ -4,10 +4,6 @@
 
 To analyze agricultural production data in order to uncover insights into crop production patterns, identify trends over time, and compare agricultural outputs among major crop-producing countries.
 
-Please visit the live tableau dashboard by clicking on the link to fully experience the filters.https://public.tableau.com/views/AgricultureProduction_17158934723780/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
-
-![image](https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/491d100e-0da2-4936-9ee8-2576c73b4b79)
-
 ## **Data Source**
 
 The data utilized in this analysis is obtained from FAOSTAT, a comprehensive database provided by the Food and Agriculture Organization (FAO) of the United Nations. The dataset contains information on crops, production quantities, harvested areas, and yields spanning several decades., production quantities, harvested areas, and yields spanning several decades.
@@ -81,6 +77,12 @@ The dataset contains the following columns:
 8. What is the year with the highest production for each item?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/cc0c9acd-d180-425b-b9c7-6d44ab57e588">
+
+## **Tableau Dashboard**
+
+Please visit the live tableau dashboard by clicking on the link to fully experience the filters.https://public.tableau.com/views/AgricultureProduction_17158934723780/Dashboard1?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link
+
+![image](https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/491d100e-0da2-4936-9ee8-2576c73b4b79)
 
 ## **Key Findings**
 
