@@ -55,30 +55,30 @@ The dataset contains the following columns:
 
 ## **Data Analysis**
 
-2. In the year 2022, what are the total values of production, area harvested, and yield, and which element holds the highest total value?
+1. In the year 2022, what are the total values of production, area harvested, and yield, and which element holds the highest total value?
 
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/14154910-4757-49ae-b0f5-7d1d95484536">
 
 
-3. What are the top 10 crops produced, harvested, and yielded in the year 2022?
+2. What are the top 10 crops produced, harvested, and yielded in the year 2022?
 
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/8962307f-34cc-441a-8cc4-e858bf475978">
 
 
-4. How has maize production, area harvested, and yield varied over the years? or In which years did maize production, area harvested, and yield reach their peak? or Are there any noticeable trends or patterns in maize production, area harvested, and yield over the years?
+5. How has maize production, area harvested, and yield varied over the years? or In which years did maize production, area harvested, and yield reach their peak? or Are there any noticeable trends or patterns in maize production, area harvested, and yield over the years?
 
 <img width="1000" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/c9e670d8-d15e-4192-a75c-de064d668299">
 
 
-5. How has maize production varied over time in the United States, Russia, India, China, and Brazil? or Which country has consistently produced the most maize over the specified period? or What were the peak production years for maize in each of the listed countries?
+6. How has maize production varied over time in the United States, Russia, India, China, and Brazil? or Which country has consistently produced the most maize over the specified period? or What were the peak production years for maize in each of the listed countries?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/2d16ec25-5c23-47ff-90f3-bd29092f9975">
 
-6. How much maize (corn) did the United States produce each year? or What percentage of the total global maize production does the United States contribute each year? or How has the United States' share of global maize production fluctuated over the years? or Are there any notable trends or patterns in the United States' maize production relative to the global production?
+7. How much maize (corn) did the United States produce each year? or What percentage of the total global maize production does the United States contribute each year? or How has the United States' share of global maize production fluctuated over the years? or Are there any notable trends or patterns in the United States' maize production relative to the global production?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/0012ef72-b1a1-4a1c-a8e4-fca48085afd3">
 
-7. What is the year with the highest production for each item?
+8. What is the year with the highest production for each item?
 
 <img width="1440" alt="image" src="https://github.com/mjotangi/Agriculture-Crops-Production-Data-Analysis/assets/146262756/cc0c9acd-d180-425b-b9c7-6d44ab57e588">
 
